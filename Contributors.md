@@ -48,6 +48,7 @@ ManoGowda
 - [Erdemguvenc](https://github.com/Erdemguvenc)
 - [Manya Parikh](https://github.com/Manya2302)
 - [Abhijeet Raj](https://github.com/Abhijeet-99-dev)
+- [BDDXH](https://github.com/BDDXH)
 - [Shivendra Bhardwaj](https://github.com/ZenzoSH)
 - [Nitin] (https://github.com/nitin3150)
 - [Love Chauhan](https://github.com/chauhanlove271)
