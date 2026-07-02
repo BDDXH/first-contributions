@@ -1597,6 +1597,7 @@ Aakash Gupta
 - [Tejas MS](https://github.com/TejasMS1356)
 - [Tejas Waghere](https://github.com/tejaswaghere)
 - [Teng-Hui Huang](https://github.com/hui811116)
+- [BDDXH](https://github.com/BDDXH)
 - [Thabo Lubhele](https://github.com/Thabogift10/)
 - [Aryan Basra](https://github.com/exharmonic)
 - [Tharvesh Muhaideen A](https://github.com/tharvesh2026)
